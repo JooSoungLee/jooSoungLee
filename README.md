@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm JooSoungLee</h1>
-<h3 align="left">I am a developer from Korea. I have experience with various financial sector projects and integrations.</h3>
+<h1 align="left">안녕하세요👋, 이주성 입니다.</h1>
+<h3 align="left">다양한 금융권 프로젝트 경력을 보유하고 있으며, 연동 경험 및 SQL에 자신이 있습니다.<br>주로 Spring, jquery, jsp를 이용하여 화면 및 백앤드 개발을 진행 하였으며<br>현재는 리액트와 타입스크립트를 학습하고 있습니다.</h3>
 
 - 🌱 I’m currently learning **react, typescript**
 
