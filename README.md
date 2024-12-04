@@ -1,11 +1,11 @@
 <h1 align="left">안녕하세요👋, 이주성 입니다.</h1>
 <h4 align="left">1.다양한 금융권 프로젝트 경력을 보유하고 있으며, 연동 및 SQL에 자신이 있습니다.<br>2.주로 Spring, jquery, jsp를 이용하여 화면 및 백앤드 개발을 진행 하였습니다.<br>3.현재는 리액트와 타입스크립트를 학습하고 있습니다.</h3>
 
-- 🌱 I’m currently learning **react, typescript**
+- 🌱 현재 **react, typescript** 학습 중에 있습니다.
 
-- 👨‍💻 All of my projects are available at [tobe-continue](tobe-continue)
+- 👨‍💻 포트폴리오 준비 중에 있습니다. [tobe-continue](tobe-continue)
 
-- 💬 Ask me about **spring, oracle query**
+- 💬 주로 **spring, sql, jquery, jsp** 를 이용하여 개발을 진행 하였습니다.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
